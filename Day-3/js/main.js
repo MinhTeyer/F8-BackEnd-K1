@@ -21,7 +21,7 @@ function getNum(n) {
     }
   }
   
-  var n = 10;
+  var n = 5;
   var result = getNum(n);
   
   if (typeof result === "string") {
@@ -43,12 +43,12 @@ var calculateTotal = function(n) {
     return total;
   }
   
-  var n = 7;
+  var n = 8;
   console.log(calculateTotal(n));
 
 //   Bài 3
 
-var a = 5, b = 9;
+var a = 4, b = 7;
 var totalEven = 0, totalOdd = 0;
 
 if(Number.isInteger(n) && n > 0)
@@ -92,7 +92,7 @@ function isPrime (n)
     return true;
 }
 
-var n = 7;
+var n = 10;
 if(Number.isInteger(n) && n > 0)
 {
     if(isPrime(n))

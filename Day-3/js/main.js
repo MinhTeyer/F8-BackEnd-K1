@@ -17,7 +17,7 @@ function getNum(n) {
         odd: oddNum
       };
     } else {
-      return "Bạn đã nhập sai!!!";
+      return "Bạn đã nhập sai";
     }
   }
   

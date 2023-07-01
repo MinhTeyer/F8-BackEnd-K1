@@ -70,7 +70,7 @@ if(Number.isInteger(n) && n > 0)
 }
 else
 {
-    console.log('Ko hop le');
+    console.log('Không hợp lệ');
 }
 
 // Bài 4
@@ -106,7 +106,7 @@ if(Number.isInteger(n) && n > 0)
 }
 else
 {
-    console.log('Ko hợp lệ');
+    console.log('Không hợp lệ');
 }
 
 // Bài 5

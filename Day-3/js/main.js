@@ -119,4 +119,4 @@ function totalS(n) {
     totalS(--n)
     return S;
 }
-console.log(totalS(6));
+console.log(totalS(10));
